@@ -1,9 +1,9 @@
 # DBMS-LAB-S4
 This project is done as a part of the DBMS LAB course by S4 students.
 
-# RESOURCES
+# Resources
 https://nitcbase.github.io/
-
+<br>
 
 
 # What is NITCbase?
