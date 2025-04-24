@@ -17,6 +17,7 @@ NITCbase is a Relational Database Management System (RDBMS) implementation proje
 
 # Utilities and Tools used
 * Fedora - primary OS during development; essential for system-level operations
+* C/C++ compiler (gcc/g++)
 * VS Code – for writing and organizing code
 * Git – for version control and stage-wise tracking
 * GitHub – for backing up code and sharing progress
