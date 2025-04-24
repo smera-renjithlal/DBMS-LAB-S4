@@ -4,9 +4,10 @@ It is structured around an eight-layer architecture that provides basic function
 
 # Resources
 https://nitcbase.github.io/
+<br><br>
 
 NITCbase is divided into 12 stages:<br>
-[Installation: ](https://nitcbase.github.io/docs/Roadmap/Stage00)<br>
+[Installation](https://nitcbase.github.io/docs/Roadmap/Stage00)<br>
 [Stage 1](https://nitcbase.github.io/docs/Roadmap/Stage01)<br>
 [Stage 2](https://nitcbase.github.io/docs/Roadmap/Stage02)<br>
 [Stage 3](https://nitcbase.github.io/docs/Roadmap/Stage03)<br>
