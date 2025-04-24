@@ -4,15 +4,15 @@ This project is done as a part of the DBMS LAB course by S4 students.
 # RESOURCES
 https://nitcbase.github.io/
 
-# WHAT IS NITCBASE
+# What is NITCbase?
 NITCbase is a Relational Database Management System (RDBMS) implementation project that is intended to help undergraduate students understand the design and data structures of an elementary RDBMS. This is done by implementing an RDBMS themselves with a step-by-step implementation roadmap.
 
-# WHAT I LEARNT
+# What I learnt
 * How relational databases are constructed from scratch
 * Fundamentals of data storage, indexing, and query handling
 * How to debug low-level memory and logic issues
 
-# UTILITIES AND TOOLS
+# Utilities and Tools used
 * Fedora - primary OS during development; essential for system-level operations
 * VS Code – for writing and organizing code
 * Git – for version control and stage-wise tracking
@@ -21,7 +21,7 @@ NITCbase is a Relational Database Management System (RDBMS) implementation proje
 * Valgrind – for detecting memory leaks and segmentation faults
 * Linux Terminal – essential for compiling, testing, and disk operations
 
-# SUGGESTIONS
+# Suggestions
 If you are planning to choose DBMS Lab for your elective, I highly suggest going through the documentation and getting a rough idea before you start. 
 * Familiarize yourself with *git*.
 * Install *Linux*, and learn how to work with it.
@@ -31,7 +31,7 @@ If you are planning to choose DBMS Lab for your elective, I highly suggest going
 * Be consistent. It is very easy to fall behind since there are no strict deadlines for completing stages. Make sure you code everyday and keep yourself in the loop with your progress. This will also help you pace yourself and give you more time to debug when you face errors - you will need it. 
 * Write your own code. Don't just copy code off of others. Genuinely sit down and write your programs with understanding. Only refer to others codes or repos when you face a roadblock.
 
-# DEBUGGING
+# Debugging
 I used *GDB* and *Valgrind* to debug:
   - GDB for general logic issues
   - Valgrind for memory-related bugs and segmentation faults
