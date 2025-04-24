@@ -1,16 +1,12 @@
-# DBMS-LAB-S4
-This project is done as a part of the DBMS LAB course by S4 students.
+# NITCBASE
+NITCbase is a rudimentary RDBMS implementation project done by S4 students as a part of the DBMS LAB course. It structured around an eight-layer architecture. It provides basic functionality for handling standard relational queries and includes indexing through B+ trees. By the end of the project, the system supports elementary SQL operations such as CREATE, DROP, ALTER, INSERT, SELECT, PROJECT, and EQUI-JOIN. (Note that NITCbase does not support concurrency.)
 
 # Resources
 https://nitcbase.github.io/
 
 
-# What is NITCbase?
-NITCbase is a Relational Database Management System (RDBMS) implementation project that is intended to help undergraduate students understand the design and data structures of an elementary RDBMS. This is done by implementing an RDBMS themselves with a step-by-step implementation roadmap.
-
-
-# What I learnt
-* How relational databases are constructed from scratch
+# Learning
+* Understand the design and data structures of an elementary RDBMS through implementation
 * Fundamentals of data storage, indexing, and query handling
 * How to debug low-level memory and logic issues
 
