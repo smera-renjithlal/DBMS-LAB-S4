@@ -5,20 +5,20 @@ It is structured around an eight-layer architecture that provides basic function
 # Resources
 https://nitcbase.github.io/
 
-NITCbase is divided into 12 stages:
-[Installation: ](https://nitcbase.github.io/docs/Roadmap/Stage00)
-[Stage 1: ](https://nitcbase.github.io/docs/Roadmap/Stage01)
-[Stage 2: ](https://nitcbase.github.io/docs/Roadmap/Stage02)
-[Stage 3: ](https://nitcbase.github.io/docs/Roadmap/Stage03)
-[Stage 4: ](https://nitcbase.github.io/docs/Roadmap/Stage04)
-[Stage 5: ](https://nitcbase.github.io/docs/Roadmap/Stage05)
-[Stage 6: ](https://nitcbase.github.io/docs/Roadmap/Stage06)
-[Stage 7: ](https://nitcbase.github.io/docs/Roadmap/Stage07)
-[Stage 8: ](https://nitcbase.github.io/docs/Roadmap/Stage08)
-[Stage 9: ](https://nitcbase.github.io/docs/Roadmap/Stage09)
-[Stage 10: ](https://nitcbase.github.io/docs/Roadmap/Stage10)
-[Stage 11: ](https://nitcbase.github.io/docs/Roadmap/Stage11)
-[Stage 12: ](https://nitcbase.github.io/docs/Roadmap/Stage12)
+NITCbase is divided into 12 stages:<br>
+[Installation: ](https://nitcbase.github.io/docs/Roadmap/Stage00)<br>
+[Stage 1](https://nitcbase.github.io/docs/Roadmap/Stage01)<br>
+[Stage 2](https://nitcbase.github.io/docs/Roadmap/Stage02)<br>
+[Stage 3](https://nitcbase.github.io/docs/Roadmap/Stage03)<br>
+[Stage 4](https://nitcbase.github.io/docs/Roadmap/Stage04)<br>
+[Stage 5](https://nitcbase.github.io/docs/Roadmap/Stage05)<br>
+[Stage 6](https://nitcbase.github.io/docs/Roadmap/Stage06)<br>
+[Stage 7](https://nitcbase.github.io/docs/Roadmap/Stage07)<br>
+[Stage 8](https://nitcbase.github.io/docs/Roadmap/Stage08)<br>
+[Stage 9](https://nitcbase.github.io/docs/Roadmap/Stage09)<br>
+[Stage 10](https://nitcbase.github.io/docs/Roadmap/Stage10)<br>
+[Stage 11](https://nitcbase.github.io/docs/Roadmap/Stage11)<br>
+[Stage 12](https://nitcbase.github.io/docs/Roadmap/Stage12)<br>
 
 
 # Learning
