@@ -3,18 +3,17 @@ This project is done as a part of the DBMS LAB course by S4 students.
 
 # Resources
 https://nitcbase.github.io/
-<br>
 
 
 # What is NITCbase?
 NITCbase is a Relational Database Management System (RDBMS) implementation project that is intended to help undergraduate students understand the design and data structures of an elementary RDBMS. This is done by implementing an RDBMS themselves with a step-by-step implementation roadmap.
 
 
-
 # What I learnt
 * How relational databases are constructed from scratch
 * Fundamentals of data storage, indexing, and query handling
 * How to debug low-level memory and logic issues
+
 
 # Utilities and Tools used
 * Fedora - primary OS during development; essential for system-level operations
@@ -24,7 +23,6 @@ NITCbase is a Relational Database Management System (RDBMS) implementation proje
 * GDB – for debugging logic-level issue
 * Valgrind – for detecting memory leaks and segmentation faults
 * Linux Terminal – essential for compiling, testing, and disk operations
-
 
 
 # Suggestions
@@ -38,7 +36,6 @@ If you are planning to choose DBMS Lab for your elective, I highly suggest going
 * Write your own code. Don't just copy code off of others. Genuinely sit down and write your programs with understanding. Only refer to others codes or repos when you face a roadblock.
 
 
-
 # Debugging
 I used *GDB* and *Valgrind* to debug(https://nitcbase.github.io/docs/Misc/GDB):
   - GDB for general logic issues
@@ -48,6 +45,8 @@ I used *GDB* and *Valgrind* to debug(https://nitcbase.github.io/docs/Misc/GDB):
   - If this happens to you, do not panic. Use the 'fdisk' command in the XFS Interface to format the disk. It’ll be as good as new. You can implement fixes and test them after.
 * If you get stuck and nothing works - start from scratch. Go to the previous stage and redo the whole thing.
 
+
 # Final Thoughts
-This course was intense, but also a massive learning opportunity. Stick with it, take breaks when you're stuck, and always push your work as you go. You'll come out of it with a deeper understanding of databases, coding discipline, and maybe even a bit of pride.<br>
+This course was intense, but also a massive learning opportunity. Stick with it, take breaks when you're stuck, and always push your work as you go. You'll come out of it with a deeper understanding of databases, coding discipline, and maybe even a bit of pride.
+
 Good Luck!
