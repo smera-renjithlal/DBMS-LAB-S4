@@ -51,7 +51,7 @@ If you are planning to choose DBMS Lab for your elective, I highly suggest going
 
 
 # Debugging
-I used *GDB* and *Valgrind* to debug [Documentation for GDB](https://nitcbase.github.io/docs/Misc/GDB):
+I used *GDB* and *Valgrind* to debug [(Documentation for GDB)](https://nitcbase.github.io/docs/Misc/GDB):
   - GDB for general logic issues
   - Valgrind for memory-related bugs and segmentation faults
 * If you get a segmentation fault, run your program with Valgrind. It'll usually point you to what needs fixing.
