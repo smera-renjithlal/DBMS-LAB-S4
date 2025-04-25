@@ -56,9 +56,6 @@ If you are planning to choose DBMS Lab for your elective, I highly suggest going
 I used *GDB* and *Valgrind* to debug [(Documentation for GDB)](https://nitcbase.github.io/docs/Misc/GDB):
   - GDB for general logic issues
   - Valgrind for memory-related bugs and segmentation faults
-* If you get a segmentation fault, run your program with Valgrind. It'll usually point you to what needs fixing.
-* At one point, my disk got corrupted and started printing weird symbols in the XFS interface.
-  - If this happens to you, do not panic. Use the 'fdisk' command in the XFS Interface to format the disk. It’ll be as good as new. You can implement fixes and test them after.
 * If you get stuck and nothing works - start from scratch. Go to the previous stage and redo the whole thing.
 
 
