@@ -25,7 +25,7 @@ NITCbase is divided into 12 stages:<br>
 
 
 # Learning
-* Understand the design and data structures of an elementary RDBMS through implementation
+* Understanding the design and data structures of an elementary RDBMS through implementation
 * Fundamentals of data storage, indexing, and query handling
 * How to debug low-level memory and logic issues
 
